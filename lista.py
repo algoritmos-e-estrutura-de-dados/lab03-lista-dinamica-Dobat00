@@ -1,5 +1,3 @@
-from node import Node
-
 
 class Lista:
     inicio = None
@@ -56,6 +54,9 @@ class Lista:
         print(f"{aux.valor}]")
 
     
+
+
+
 
 
 
