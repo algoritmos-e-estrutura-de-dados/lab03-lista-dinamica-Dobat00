@@ -1,0 +1,20 @@
+{
+  "files": {
+    "lista.py": [
+      {
+        "id": "c98c5568-9de2-4e9b-867a-56831a7f3d6e",
+        "line": 14,
+        "version": 459,
+        "index": 266
+      }
+    ],
+    "main.py": [
+      {
+        "id": "59c68d40-fa9e-4e88-9b34-9c8122e301da",
+        "line": 18,
+        "version": 14,
+        "index": 217
+      }
+    ]
+  }
+}
